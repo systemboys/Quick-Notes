@@ -2,6 +2,7 @@
 Repositório pessoal de **notas rápidas, comandos e dicas técnicas** para agilizar instalações, configurações e soluções em **Linux** e **Windows**.   A ideia é servir como um **bloco de post-its digital** para consultas rápidas no dia a dia.
 
 - [Linux](#linux "Para Linux")
+  - [Após iniciar live de distros](#comandos-r%C3%A1pidos-ap%C3%B3s-iniciar-uma-distro-live "Após iniciar live de distros")
   - [QuickLinux](#quicklinux "QuickLinux")
 - [Windows](#windows "Para Windows")
   - [QuickWindows](#comando-powershell-para-executar-o-quickwindows "QuickWindows")
