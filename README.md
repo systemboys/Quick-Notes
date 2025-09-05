@@ -80,3 +80,4 @@ O que esse comando do PowerShell faz?
 
 ---
 
+> Esse conteúdo é de meu (`Marcos Aurélio`) uso particular, mas deixei o repositório como `public` para outras pessas verem!
