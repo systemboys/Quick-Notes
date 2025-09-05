@@ -4,7 +4,7 @@ Repositório pessoal de **notas rápidas, comandos e dicas técnicas** para agil
 - [Linux](#linux "Para Linux")
   - [QuickLinux](#quicklinux "QuickLinux")
 - [Windows](#windows "Para Windows")
-  - [QuickWindows](#quickwindows "QuickWindows")
+  - [QuickWindows](#comando-powershell-para-executar-o-quickwindows "QuickWindows")
 
 ---
 
